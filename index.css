@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://wallpapercave.com/wp/wp5223648.png");
+    url("https://c4.wallpaperflare.com/wallpaper/229/670/474/minimalism-ens%C5%8D-circle-wallpaper-preview.jpg");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://wallpapercave.com/wp/wp5223648.png") center center fixed;
+    url("https://c4.wallpaperflare.com/wallpaper/229/670/474/minimalism-ens%C5%8D-circle-wallpaper-preview.jpg") center center fixed;
   --height: 50vh;
 }
 
